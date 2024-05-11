@@ -1,1 +1,10 @@
 node_modules
+.next
+
+/build
+
+.vercel
+
+/.pnp
+.pnp.js
+.yarn/install-state.gz
